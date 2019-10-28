@@ -1,6 +1,6 @@
 {
   "name": "angular-linq",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Linq wrapper for AngularJs",
   "main": "angular-linq.js",
   "repository": "https://github.com/gabrielecaravati/angular-linq",
